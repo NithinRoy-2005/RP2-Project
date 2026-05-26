@@ -47,10 +47,10 @@ Dataset contains:
 - Rideable Type
 - Start & End Time
 - Station Names
-- Latitude & Longitude
+
 - User Type (Member/Casual)
 ---
-# Project Structure
+ Project Structure
 ```bash
 Divvy-Bikes-EDA/
 │
@@ -58,69 +58,69 @@ Divvy-Bikes-EDA/
 │   └── Project Final Rp2.ipynb
 ├── README.md
 
+
 Steps Performed
 
 1. Data Loading
-
-* Imported CSV dataset using Pandas.
+- Imported CSV dataset using Pandas.
 
 2. Data Cleaning
 
-* Removed duplicates
-* Converted date columns
-* Removed invalid trip durations
-* Handled missing values
+- Removed duplicates
+- Converted date columns
+- Removed invalid trip durations
+- Handled missing values
 
 3. Feature Engineering
 
 Created:
 
-* Trip Duration
-* Day of Week
-* Hour
-* Month
+- Trip Duration
+- Day of Week
+- Hour
+- Month
 
 4. Exploratory Data Analysis
 
 Analyzed:
 
-* Casual vs Member users
-* Trip durations
-* Popular stations
-* Rideable type usage
-* Peak hours and days
-* Monthly trends
+- Casual vs Member users
+- Trip durations
+- Popular stations
+- Rideable type usage
+- Peak hours and days
+- Monthly trends
 
 5. Visualization
 
 Used:
 
-* Count plots
-* Histograms
-* Boxplots
-* Line charts
-* Heatmaps
-* Bar charts
+- Count plots
+- Histograms
+- Boxplots
+- Line charts
+- Heatmaps
+- Bar charts
 
 ⸻
 
 Key Insights
 
-* Members use bikes more frequently than casual riders.
-* Casual riders usually take longer trips.
-* Electric bikes are highly preferred.
-* Peak hours occur during commuting times.
-* Weekend usage is higher among casual riders.
+- Members use bikes more frequently than casual riders.
+- Casual riders usually take longer trips.
+- Electric bikes are highly preferred.
+- Peak hours occur during commuting times.
+- Weekend usage is higher among casual riders.
 
 ⸻
 
 Business Recommendations
 
-* Increase bike availability during peak hours.
-* Promote memberships to casual riders.
-* Add more electric bikes.
-* Improve service around highly used stations.
-* Provide weekend offers and promotions.
+- Increase bike availability during peak hours.
+- Promote memberships to casual riders.
+- Add more electric bikes.
+- Improve service around highly used stations.
+- Provide weekend offers and promotions.
 
 ⸻
 
@@ -156,18 +156,18 @@ Output
 
 The project generates:
 
-* Cleaned dataset
-* Graphs & visualizations
-* Insights
-* Business recommendations
+- Cleaned dataset
+- Graphs & visualizations
+- Insights
+- Business recommendations
 
 ⸻
 
 Future Improvements
 
-* Predictive analysis using Machine Learning
-* Interactive dashboard using Power BI/Tableau
-* Real-time ride analysis
+- Predictive analysis using Machine Learning
+- Interactive dashboard using Power BI/Tableau
+- Real-time ride analysis
 
 ⸻
 
