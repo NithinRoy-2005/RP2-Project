@@ -54,18 +54,9 @@ Dataset contains:
 ```bash
 Divvy-Bikes-EDA/
 │
-├── data/
-│   └── 202602-divvy-tripdata.csv
-│   └── 202603-divvy-tripdata.csv
-│   └── 202604-divvy-tripdata.csv
-│
-├── notebook/
-│   └── Project Rp2.ipynb
-│
-│
+├── Notebook/
+│   └── Project Final Rp2.ipynb
 ├── README.md
-
-⸻
 
 Steps Performed
 
