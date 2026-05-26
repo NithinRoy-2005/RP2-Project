@@ -38,6 +38,8 @@ The project includes:
 # Dataset Used
 Dataset: Divvy Bike Share Dataset
 File Used:
+- `202602-divvy-tripdata.csv`
+- `202603-divvy-tripdata.csv`
 - `202604-divvy-tripdata.csv`
 Dataset contains:
 - Ride ID
@@ -52,17 +54,15 @@ Dataset contains:
 Divvy-Bikes-EDA/
 │
 ├── data/
+│   └── 202602-divvy-tripdata.csv
+│   └── 202603-divvy-tripdata.csv
 │   └── 202604-divvy-tripdata.csv
 │
 ├── notebook/
-│   └── Divvy_Bikes_EDA.ipynb
+│   └── Project Rp2.ipynb
 │
-├── images/
-│   └── charts_and_graphs
 │
 ├── README.md
-│
-└── requirements.txt
 
 ⸻
 
