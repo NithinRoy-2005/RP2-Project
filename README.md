@@ -17,15 +17,14 @@ The project includes:
 - Business Recommendations
 ---
 # Team Members
-| Sl No | Name | Role |
-|------|------|------|
-| 1 | Member 1 | Data Collection |
-| 2 | Member 2 | Data Cleaning |
-| 3 | Member 3 | Data Visualization |
-| 4 | Member 4 | EDA & Insights |
-| 5 | Member 5 | Documentation |
-| 6 | Member 6 | Presentation & GitHub |
-> Replace the above names with your actual group member names.
+| Sl No | Name |
+|------|------|
+| 1 | Ouseppachan Saju |
+| 2 | Nithin Roy |
+| 3 | R Gokulkrishna | 
+| 4 | Aron V Bijo | 
+| 5 | Albert Soni | 
+| 6 | Deepak T Vinod | 
 ---
 # Technologies Used
 - Python
